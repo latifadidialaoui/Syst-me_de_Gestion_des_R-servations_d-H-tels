@@ -20,12 +20,12 @@ o Scalabilité (capacité à gérer des charges croissantes).
 o Simplicité d’implémentation.
 o Sécurité et flexibilité.
 2. Fournir des recommandations sur la technologie la plus adaptée à différents cas d’usage.
-   # Détails de l'Implémentation
-# 1. Backend :
-o Implémenté avec Spring Boot pour REST et SOAP.
-o Utilisation de Apollo Server pour GraphQL.
-o Utilisation de gRPC (Java gRPC library).
-o Hébergement sur un serveur local ou cloud avec des configurations identiques.
-# 2. Base de Données :
-o MySQL ou PostgreSQL pour stocker les données des réservations.
-o Les mêmes requêtes SQL sont utilisées pour garantir une équité dans la comparaison.   
+# Détails de l'Implémentation
+   # 1. Backend :
+   o Implémenté avec Spring Boot pour REST et SOAP.
+   o Utilisation de Apollo Server pour GraphQL.
+   o Utilisation de gRPC (Java gRPC library).
+   o Hébergement sur un serveur local ou cloud avec des configurations identiques.
+   # 2. Base de Données :
+   o MySQL ou PostgreSQL pour stocker les données des réservations.
+   o Les mêmes requêtes SQL sont utilisées pour garantir une équité dans la comparaison.   
