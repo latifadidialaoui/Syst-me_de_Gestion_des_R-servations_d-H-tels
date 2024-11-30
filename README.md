@@ -1,4 +1,4 @@
-# Syst-me_de_Gestion_des_R-servations_d-H-tels
+# Systéme_de_Gestion_des_Réservations_d'Hotels
 # Contexte
 Une plateforme de réservation d’hôtels souhaite implémenter une API qui permet de gérer les
 opérations suivantes :
